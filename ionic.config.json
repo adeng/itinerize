@@ -1,0 +1,7 @@
+{
+  "name": "itinerize",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
